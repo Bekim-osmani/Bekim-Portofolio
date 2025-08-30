@@ -473,6 +473,13 @@
         .contact-form button:active {
             transform: translateY(0);
         }
+
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 10000;
+        }
         
         @media (max-width: 576px) {
             .contact-form {
