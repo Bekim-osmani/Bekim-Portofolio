@@ -323,15 +323,18 @@
     }
 
     #projektet {
-      background: #e0e0eb;
+      background: #9b9bd6;
     }
 
     h2 {
       color: #3c0779;
+      text-align: center;
+      align-items: center;
     }
 
     .project-card {
-      background: white;
+      background: rgb(157, 82, 218);
+      text-align: center;
       padding: 20px;
       margin: 20px 0;
       border-radius: 10px;
